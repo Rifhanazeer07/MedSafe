@@ -49,7 +49,7 @@ This project is developed for educational and portfolio purposes. It is not inte
 ![MedSafe Login](Screenshots/Login.png)
 
 ### 2. Main Page
-![MedSafe Main Page](Screenshots/Main%20page.png)
+![MedSafe Main Page](Screenshots/Main%20Page.png)
 
 ### 3. Hospital Analysis – Matplotlib Visualizations
 ![MedSafe Hospital Analysis](Screenshots/Hospital%20Analysis.png)
