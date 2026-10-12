@@ -42,3 +42,20 @@ To demonstrate the use of Python-based data handling and visualization, along wi
 
 ## Disclaimer
 This project is developed for educational and portfolio purposes. It is not intended for clinical decision-making.
+
+## Screenshots
+
+### 1. Login
+![MedSafe Login](Screenshots/Login.png)
+
+### 2. Main Page
+![MedSafe Main Page](Screenshots/Main%20page.png)
+
+### 3. Hospital Analysis – Matplotlib Visualizations
+![MedSafe Hospital Analysis](Screenshots/Hospital%20Analysis.png)
+
+### 4. PV Analysis – Matplotlib Visualizations
+![MedSafe PV Analysis](Screenshots/PV%20Analysis.png)
+
+### 5. MedSafe Dashboard – Power BI
+![MedSafe Dashboard](Screenshots/MedSafe%20Dashboard.png)
