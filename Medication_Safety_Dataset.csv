@@ -1,0 +1,24 @@
+record_id,patient_id,age,gender,department,drug,reaction,severity,serious,medication_error,outcome,date,Age Group,Severity Score,Serious ADR Flag,Medication Error Flag,ADR Risk Category,Report Date,Report Month
+1,rifnaz,23,Female,Cardiology,Aspirin,Stomach Pain,Mild,No,No,Recovered,09-09-2026,19-40,1.0,0,0,Low Risk,2026-09-09,2026-09
+2,rash,21,Female,General Medicine,Amoxicillin,Skin Rash,Moderate,No,No,Recovering,08-09-2026,19-40,2.0,0,0,Moderate Risk,2026-09-08,2026-09
+3,shaji,25,Female,Emergency,Diclofenac,Difficulty Breathing,Severe,Yes,No,Hospitalized,08-09-2026,19-40,3.0,1,0,High Risk,2026-09-08,2026-09
+4,mari,27,Female,Orthopedics,Insulin,Low Blood Sugar,Moderate,Yes,Yes,Recovered,09-09-2026,19-40,2.0,1,1,Moderate Risk,2026-09-09,2026-09
+5,hari,45,Male,Emergency,Azithromycin,Nausea,Mild,No,No,Recovered,10-09-2026,41-60,1.0,0,0,Low Risk,2026-09-10,2026-09
+6,vijay,60,Male,Neurology,Carbamazepine,Dizziness,Mild,No,No,Recovered,08-09-2026,41-60,1.0,0,0,Low Risk,2026-09-08,2026-09
+7,priya,64,Female,General Medicine,Metformin,Diarrhoea,Mild,No,No,Recovered,05-09-2026,61+,1.0,0,0,Low Risk,2026-09-05,2026-09
+8,anu,29,Female,Other,Doxycycline,Photosensitivity,Moderate,No,No,Recovering,06-09-2026,19-40,2.0,0,0,Moderate Risk,2026-09-06,2026-09
+9,sonu,72,Female,Cardiology,Warfarin,Nose Bleeding,Severe,Yes,No,Hospitalized,06-09-2026,61+,3.0,1,0,High Risk,2026-09-06,2026-09
+10,sandy,58,Male,Emergency,Penicillin,Anaphylactic Shock,Life-threatening,Yes,No,Hospitalized,07-09-2026,41-60,0.0,1,0,Moderate Risk,2026-09-07,2026-09
+11,madhu,44,Female,Emergency,Ceftriaxone,Anaphylaxis,Life-threatening,Yes,No,Recovered,08-09-2026,41-60,0.0,1,0,Moderate Risk,2026-09-08,2026-09
+12,rina,45,Female,Emergency,Amoxicillin,Skin Rash,Moderate,No,No,Recovered,12-09-2026,41-60,2.0,0,0,Moderate Risk,2026-09-12,2026-09
+13,thee,24,Male,Other,Ibuprofen,Gastric Irritation,Mild,No,No,Recovering,12-09-2026,19-40,1.0,0,0,Low Risk,2026-09-12,2026-09
+14,nunu,5,Male,Pediatrics,Azithromycin,Diarrhoea,Moderate,Yes,Yes,Hospitalized,13-09-2026,0-18,2.0,1,1,Moderate Risk,2026-09-13,2026-09
+15,neha,9,Female,Pediatrics,Cefixime,Skin Rash,Mild,No,No,Recovered,13-09-2026,0-18,1.0,0,0,Low Risk,2026-09-13,2026-09
+16,meenu,39,Female,General Medicine,Amlodipine,Ankle Edema,Severe,Yes,Yes,Hospitalized,13-09-2026,19-40,3.0,1,1,High Risk,2026-09-13,2026-09
+17,arun,62,Male,General Medicine,Metformin,Hypoglycemia,Life-threatening,Yes,Yes,Fatal,13-09-2026,61+,0.0,1,1,Moderate Risk,2026-09-13,2026-09
+18,minu,30,Male,General Medicine,Amoxicillin,Skin Rash,Moderate,No,No,Recovered,14-09-2026,19-40,2.0,0,0,Moderate Risk,2026-09-14,2026-09
+19,vinu,73,Male,Other,Insulin,Hypoglycemia,Life-threatening,Yes,Yes,Fatal,13-09-2026,61+,0.0,1,1,Moderate Risk,2026-09-13,2026-09
+20,ammu,14,Female,General Medicine,Montelukast,Headache,Mild,No,No,Not Recovered,13-09-2026,0-18,1.0,0,0,Low Risk,2026-09-13,2026-09
+21,mano,56,Male,Other,Insulin,Hypoglycemia,Moderate,No,Yes,Recovered,14-09-2026,41-60,2.0,0,1,Moderate Risk,2026-09-14,2026-09
+22,viyun,8,Male,Pediatrics,Amoxicillin,Itching,Moderate,No,Yes,Recovering,14-09-2026,0-18,2.0,0,1,Moderate Risk,2026-09-14,2026-09
+23,dev,4,Male,Pediatrics,Azithromycin,Diarrhoea,Moderate,No,No,Recovered,14-09-2026,0-18,2.0,0,0,Moderate Risk,2026-09-14,2026-09
